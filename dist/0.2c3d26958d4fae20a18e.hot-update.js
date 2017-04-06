@@ -1,0 +1,2 @@
+webpackHotUpdate(0,{30:function(o,a,d){a=o.exports=d(93)(void 0),a.push([o.i,"*{margin:0;padding:0}body{background:#daa520;color:#fe3421;font-size:.3rem}",""])}});
+//# sourceMappingURL=0.2c3d26958d4fae20a18e.hot-update.js.map
